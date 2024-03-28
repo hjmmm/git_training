@@ -1,2 +1,3 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago... now we cause a conflict.
+Hi! I'm Alice. I'm a file someone added 
+to this repository a while ago... now we cause a conflict.
 Another change to make sure we have a conflict
